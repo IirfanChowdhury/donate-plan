@@ -1,0 +1,146 @@
+* {
+    margin: 0;
+    font-family: 'Open Sans', sans-serif;;
+}
+
+.title .main-title {
+    text-align: center;
+    padding-top: 150px;
+    font-size: 70px;
+    color: aliceblue;
+}
+
+.title {
+    background-image: url(../images/donation13.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+
+}
+
+.title p {
+    text-align: center;
+    color: aliceblue;
+    padding: 20px 580px 20px 580px;
+}
+
+.btn-primary {
+    padding: 15px 30px ;
+    font-size: large;
+    background-color: brown;
+    color: aliceblue;
+    border: 0;
+    font-family: 'Open Sans', sans-serif;
+    border-radius: 5px;
+}
+
+.title .btn-div {
+    justify-content: center;
+    display: flex;
+    padding-bottom: 200px;
+    padding-top: 30px;
+}
+.donate-amount .description {
+    text-align: center;
+    padding-bottom: 90px;
+}
+.donate-amount .sub-title {
+    text-align: center;
+    padding-top: 140px;
+    font-size: 60px;
+    padding-bottom: 20px;
+}
+.donate-amount .amount {
+    list-style: none;
+    display: flex;
+    gap: 40px;
+    justify-content: center;
+    font-size: 50px;
+    padding-bottom: 90px;
+}
+.donate-amount .amount .amount-mark {
+    border-style: solid;
+    border-color: brown;
+    border-radius: 4px;
+    color: brown;
+    padding: 20px 15px;
+}
+.donate-amount .other-amount {
+    text-align: center;
+    font-size: 20px;
+    padding-bottom: 5px;
+    outline: none;
+}
+.donate-amount .other-amount hr {
+    padding: 40px ;
+}
+.btn-hr {
+    justify-content: center;
+    display: flex;
+    padding-top: 40px;
+    padding-bottom: 140px;
+}
+.amount-container {
+    margin-left: 250px;
+    margin-right: 250px ;
+}
+input {
+    border: 0;
+    padding: 8px 7px;
+    border: 0;
+    height: 50px;
+}
+.donate-plan .sub-title {
+    text-align: center;
+    padding-top: 140px;
+    font-size: 60px;
+    padding-bottom: 20px;
+}
+.donate-plan .description {
+    text-align: center;
+    padding-bottom: 90px;
+}
+.plan-item {
+    display: flex;
+    padding-left: 280px;
+    gap: 67px;
+    padding-right: 150px;
+}
+.plan-title .plan-item-title {
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+.plan-title-1 {
+    background-color: lightblue;
+}
+.sub-plan-title-1 {
+    padding: 90px 40px 90px;
+}
+.plan-title-2 {
+    background-color: lightpink;
+}
+.plan-title-3 {
+    background-color: lightyellow;
+}
+.iamge-title {
+    display: flex;
+    gap: 210px;
+    padding-top: 210px;
+}
+.img-title-1 {
+    padding-left: 160px;
+}
+.img-1-header {
+    font-size: 60px;
+    padding-top: 60px;
+    padding-bottom: 20px;
+}
+.img-1-description {
+    padding-bottom: 50px;
+}
+.img-1 img {
+    border: 3px solid white;
+    position: relative;
+    border-radius: 10px;
+    height: 450px;
+    padding-right: 140px;
+}

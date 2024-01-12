@@ -20,7 +20,7 @@
 .title p {
     text-align: center;
     color: aliceblue;
-    padding: 20px 580px 20px 580px;
+    padding: 20px 80px 20px 80px;
 }
 
 .btn-primary {
@@ -121,13 +121,13 @@ input {
 .plan-title-3 {
     background-color: lightyellow;
 }
-.iamge-title {
+.image-title {
     display: flex;
-    gap: 210px;
+    gap: 40px;
     padding-top: 210px;
 }
 .img-title-1 {
-    padding-left: 160px;
+    padding-left: 60px;
 }
 .img-1-header {
     font-size: 60px;
@@ -141,6 +141,48 @@ input {
     border: 3px solid white;
     position: relative;
     border-radius: 10px;
-    height: 450px;
-    padding-right: 140px;
+    height: 400px;
+    padding-right: 40px;
+}
+.donation-container {
+    margin: 0;
+}
+.img-2 img {
+    border: 3px solid white;
+    position: relative;
+    border-radius: 10px;
+    height: 350px;
+    padding-left: 40px;
+}
+.email-container {
+    text-align: center;
+    background-color: lightyellow;
+    margin-right: 500px;
+    margin-left: 500px;
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+.btn-email {
+    padding-right: 60px;
+    padding-left: 20px;
+    border-radius: 5px;
+    color: black;
+    background-color: lightgray;
+    height: 40px;
+    width: 190px;
+}
+.footer-division {
+    text-align: center;
+    margin-top: 200px;
+    background-color: black;
+}
+.footer-title {
+    color:brown;
+    padding-top: 40px;
+    font-family: 'Lobster Two', sans-serif;
+}
+.footer-description {
+    color: aliceblue;
+    padding-top: 10px;
+    padding-bottom: 50px;
 }
